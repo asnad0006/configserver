@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related qa APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "{cipher}25729fe48002648f2b90da17ba907d8b0fe45458cb6c0a4be41cb8fe3c940d0d45d080d8d1b9155e1d25a09cb7e6b51d"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
